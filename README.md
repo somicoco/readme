@@ -5,6 +5,7 @@
  
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Flutter-3178C6?style=flat&logo=Flutter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 </div>
 <hr>
 
