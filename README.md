@@ -3,8 +3,8 @@
 <div align="center"><b> tech stack!!
 </br>
  
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenjDk&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flutter-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Flutter-3178C6?style=flat&logo=Flutter&logoColor=white"/>  
 </div>
 <hr>
 
